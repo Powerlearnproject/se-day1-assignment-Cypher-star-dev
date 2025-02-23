@@ -6,8 +6,11 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+Software engineering is the designing, maintaining, and creation of software. 
+
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+1. The Birth of Structured Programming. It is a technique for writing programs that are more reliable and readable. It breaks down programs into smaller, more manageable parts
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
